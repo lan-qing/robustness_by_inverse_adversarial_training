@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tianfeng@202.120.32.244:26422 (1)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="tianfeng@202.120.32.244:26422 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/robustness_by_inverse_adversarial_training" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
